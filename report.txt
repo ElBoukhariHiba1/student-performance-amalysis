@@ -1,0 +1,20 @@
+
+========== STUDENT PERFORMANCE REPORT ==========
+
+Number of Students: 10
+
+Class Average: 79.83
+
+Highest Average: 93.75
+
+Lowest Average: 59.50
+
+Best Student: Amal
+
+Lowest Student: Omar
+
+Best Subject: English
+
+Lowest Subject: Math
+
+================================================
